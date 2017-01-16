@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/Yodata/meteor-iso-languages.svg)](https://travis-ci.org/Yodata/meteor-iso-languages)
+[![Build Status](https://travis-ci.org/bshamblen/meteor-iso-languages.svg)](https://travis-ci.org/bshamblen/meteor-iso-languages)
 
 # ISO Languages
 

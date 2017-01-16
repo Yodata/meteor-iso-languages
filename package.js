@@ -1,6 +1,6 @@
 Package.describe({
 	name: 'bshamblen:iso-languages',
-	version: '0.0.2',
+	version: '0.0.3',
 	summary: 'ISO 639-1 language code lookup and list library.',
 	git: 'https://github.com/yodata/meteor-iso-languages.git',
 	documentation: 'README.md'
